@@ -5,6 +5,9 @@ Welcome to my Research Papers Repository. This repo is a curated collection of s
 ⚠️ Note:
 This repository contains only summaries, abstracts, and overviews of my research work. The full papers are not included here to respect publication guidelines, copyrights, and academic policies. However, if you are interested in accessing the full version of a paper, feel free to contact me directly.
 
+⚠️ Privacy Notice:
+For GitHub’s privacy and security reasons, I have hidden personal details such as my full name, affiliations, and contact information in this repository. The content here focuses solely on research summaries and abstracts. If you need to get in touch or access additional information, please contact me directly via email or LinkedIn.
+
 📚 Contents
 Summaries of Published Papers
 Key Insights & Findings
