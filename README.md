@@ -22,4 +22,8 @@ Inspire students, researchers, and professionals
 Open opportunities for discussion and collaboration
 
 📬 Get in Touch:
+Thank you for visiting my repository! If you’d like to get in touch, collaborate, or request access to full research papers, here’s how you can reach me:
+✉️ Email Email: deveshsoman.ds@gmail.com
+💼 LinkedIn Connect with me on LinkedIn : DeveshSoman@linkedin
+🐦 Google Scholar View my research papers : DeveshSoman@Scholar ⚠️ Also search for DeveshSoman@Scimago on Research Gate.
 For full papers, collaborations, or discussions, please reach out to me via Email or connect on LinkedIn.
